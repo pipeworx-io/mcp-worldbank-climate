@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/worldbank-climate",
   "title": "Worldbank Climate",
   "description": "World Bank Climate Change Knowledge Portal (CCKP) MCP.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/worldbank-climate",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-worldbank-climate",
